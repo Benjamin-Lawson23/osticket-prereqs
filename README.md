@@ -214,7 +214,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 3. MySQL Password: (your password)
 4. Click 'Install Now!'
 
-<h2>Congratulations! You have successfully installed osTicket</h2>
+<b>Congratulations! You have successfully installed osTicket</b>
 </p>
 <br />
 
