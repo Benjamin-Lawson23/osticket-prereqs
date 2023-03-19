@@ -219,7 +219,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pB08LwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 15: Browse to your help desk login page and End User page:</h2> 
