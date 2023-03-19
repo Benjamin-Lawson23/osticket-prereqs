@@ -46,7 +46,7 @@ IIS is a web server that allows the computer you are using to serve websites. os
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcv67O3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 2: Download and install PHP Manager for IIS</h2> 
