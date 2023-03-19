@@ -102,7 +102,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2xmBSDI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 7:  Download and install MySQL 5.5.62</h2>
