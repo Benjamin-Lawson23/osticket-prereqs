@@ -27,7 +27,7 @@ This is a tutorial that outlines the prerequisites and installation of the free,
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://i.imgur.com/tcv67O3.png)"/>
 </p>
 <p>
 <h2>Step 1: Install Internet Information Services (IIS) with CGI</h2>
