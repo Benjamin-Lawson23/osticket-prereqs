@@ -204,7 +204,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LkYO8us.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 14: Return to browser to continue setting up osTicket</h2> 
