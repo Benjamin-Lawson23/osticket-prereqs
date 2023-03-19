@@ -60,7 +60,7 @@ IIS is a web server that allows the computer you are using to serve websites. os
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: Download and install Rewrite Module 
+<h2>Step 3: Download and install Rewrite Module</h2> 
 
 Rewrite Module is a download requirement for osTicket that configures URLs. 
 
