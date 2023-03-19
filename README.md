@@ -73,7 +73,9 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>Step 4: Create a PHP folder on your C: drive</h2> 
+<h2>Step 4: Create a PHP folder</h2> 
+
+1. On your C: drive, create a new folder and name it PHP
 </p>
 <br />
 
@@ -189,7 +191,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>Step 13: download and install HeidiSQL,/h2>
+<h2>Step 13: download and install HeidiSQL</h2>
 
 HeidiSQL is a database client that allows us to connect to the server and setup a database that osTicket will use
 
