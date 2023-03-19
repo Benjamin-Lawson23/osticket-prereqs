@@ -70,7 +70,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XOgiJCj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 4: Create a PHP folder</h2> 
