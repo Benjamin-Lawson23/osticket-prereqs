@@ -130,6 +130,5 @@ Congratulations! You have successfully installed osTicket.
 <p>
 1. http://localhost/osTicket/scp/login.php
 2. http://localhost/osTicket/
-
 </p>
 <br/>
