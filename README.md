@@ -119,6 +119,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 </p>
 <h2>Step 14: Return to browser to continue setting up osTicket</h2>
 <p>
+  
 1. MySQL Database: osTicket
 2. MySQL Username: root
 3. MySQL Password: (your password)
@@ -128,6 +129,7 @@ Congratulations! You have successfully installed osTicket.
 
 <h2>Step 15: Browse to your help desk login page and End User page:</h2> 
 <p>
+  
 1. http://localhost/osTicket/scp/login.php
 2. http://localhost/osTicket/
 </p>
