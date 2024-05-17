@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 IIS is a web server that allows the computer you are using to serve websites. osTicket runs on a website, so we need to set up and configure IIS in order to run osTicket. CGI allows us to install PHP Manager. PHP is a back-end web programming language that osTicket uses to run. 
 </p>
 <p>
+  
 1. Right click on the Start Menu, then click run
 2. Type 'control panel', press enter
 3. Click 'Programs', and then 'Turn Windows Features on or off' 
@@ -34,6 +35,7 @@ IIS is a web server that allows the computer you are using to serve websites. os
 </p>
 <h2>Step 2: Download and install PHP Manager for IIS</h2>
 <p>
+  
 1. Open a browser, and search the following: PHP Manger 1.5.0 for IIS 10 
 2. Download and install
 </p>
@@ -48,11 +50,13 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 
 <h2>Step 5: Download PHP 7.3.8 </h2>
 <p>
+  
 1. Download php-7.3.8-nts-Win32-VC15-x86.zip 
 2. Right click the zip folder in Downloads and 'Extract All' the contents into C:\PHP folder that we just created
 </p>
 <h2>Step 6:  Download and install Microsoft Visual C++ Redistributable</h2> 
 <p>
+  
 1. In a browser, search for VC_redist.x86.exe and download from the Microsoft site 
 2. Install 
 </p>
@@ -68,6 +72,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 <h2>Step 8: Open IIS and Register PHP</h2>
 <p>
+  
 1. Click on Start; type IIS
 2. Right click and 'Run as administrator' 
 3. Double click PHP Manager
@@ -78,6 +83,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 <h2>Step 9: Install osTicket v1.15.8</h2>
 <p>
+  
 1. Download osTicket osTicket v1.15.8 download
 2. Extract and copy the 'upload' folder into c:\inetpub\wwwroot
 3. Within c:\inetpub\wwwroot, Rename the 'upload' to 'osTicket'
@@ -88,6 +94,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 <h2>Step 10: Enable extensions</h2>
 <p>
+  
 1. Go back to IIS and navigate to PHP Manager 
 2. Click on 'Enable or disable an extension' towards the bottom of the page 
 3. Enable: php_imap.dll, php_intl.dll, and  php_opcache.dll
@@ -95,6 +102,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 <h2>Step 11: Rename: ost-sampleconfig.php</h2>
 <p>
+  
 1. In File Explorer, navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 2. Change ost-sampleconfig.php to ost-config.php 
 3. Right click ost-config.php -> click the Security tab -> advanced -> Advanced -> Disable inheritance -> Remove All
@@ -102,6 +110,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 <h2>Step 12: Continue Setting up osTicket in the browser</h2>
 <p>
+  
 1. Return to browser -> click Continue
 2. Name your Helpdesk
 3. Add a Default email that will receive email from customers
