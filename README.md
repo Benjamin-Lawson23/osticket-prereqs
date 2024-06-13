@@ -82,7 +82,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rx0Nnxm.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
