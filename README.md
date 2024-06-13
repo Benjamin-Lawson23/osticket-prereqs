@@ -33,12 +33,25 @@ IIS is a web server that allows the computer you are using to serve websites. os
 7. To test that the web server is working, open a browser and navigate to 127.0.0.1 
 8. If the default Internet Information Services web pager loads, you have successfully installed IIS with CGI. 
 </p>
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 2: Download and install PHP Manager for IIS</h2>
 <p>
   
 1. Open a browser, and search the following: PHP Manger 1.5.0 for IIS 10 
 2. Download and install
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 3: Download and install Rewrite Module</h2>
 <p>
 Rewrite Module is a download requirement for osTicket that configures URLs. 
@@ -46,7 +59,19 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 1. On your browser, search the following: rewrite_amd64_en-US.msi 
 2. Download and install 
 </p>
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 4: Create a PHP folder on your C: drive</h2>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 <h2>Step 5: Download PHP 7.3.8 </h2>
 <p>
@@ -54,12 +79,26 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 1. Download php-7.3.8-nts-Win32-VC15-x86.zip 
 2. Right click the zip folder in Downloads and 'Extract All' the contents into C:\PHP folder that we just created
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 6:  Download and install Microsoft Visual C++ Redistributable</h2> 
 <p>
   
 1. In a browser, search for VC_redist.x86.exe and download from the Microsoft site 
 2. Install 
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 7:  Download and install MySQL 5.5.62</h2>
 <p>
 MySQL installs a database on your computer that osTicket uses to store all of the application data
@@ -70,6 +109,14 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 4. Choose a 'Standard Configuration'
 5. Enter a root password; your User Name will be 'root'
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 <h2>Step 8: Open IIS and Register PHP</h2>
 <p>
   
@@ -81,6 +128,13 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 6. Choose php-cgi.exe 
 7. Refresh the server 
 </p>
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 <h2>Step 9: Install osTicket v1.15.8</h2>
 <p>
   
@@ -92,6 +146,14 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 6. On the right-hand side, click 'Browse *80' 
 7. If you see the 'Thanks for choosing osTicket' page, the install was successful 
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 <h2>Step 10: Enable extensions</h2>
 <p>
   
@@ -100,6 +162,13 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 3. Enable: php_imap.dll, php_intl.dll, and  php_opcache.dll
 4. Refresh the osTicket site in your browser, observe the changes
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 11: Rename: ost-sampleconfig.php</h2>
 <p>
   
@@ -108,6 +177,14 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 3. Right click ost-config.php -> click the Security tab -> advanced -> Advanced -> Disable inheritance -> Remove All
 4. Add -> Select a principal -> Everyone -> Full control 
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 <h2>Step 12: Continue Setting up osTicket in the browser</h2>
 <p>
   
@@ -116,6 +193,14 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 3. Add a Default email that will receive email from customers
 4. Add Admin user details 
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
 <h2>Step 13: download and install HeidiSQL</h2>
 <p>
 HeidiSQL is a database client that allows us to connect to the server and setup a database that osTicket will use
@@ -126,6 +211,13 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 4. Connect to the session
 5. Right click 'unnamed' -> create new -> database -> call it 'osTicket' 
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 14: Return to browser to continue setting up osTicket</h2>
 <p>
   
@@ -136,10 +228,23 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 </p>
 Congratulations! You have successfully installed osTicket. 
 
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Step 15: Browse to your help desk login page and End User page:</h2> 
 <p>
   
 1. http://localhost/osTicket/scp/login.php
 2. http://localhost/osTicket/
 </p>
+
+
+<p>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <br/>
