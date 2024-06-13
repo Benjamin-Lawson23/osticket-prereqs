@@ -230,7 +230,7 @@ Congratulations! You have successfully installed osTicket.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LDt7kLU.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -241,10 +241,5 @@ Congratulations! You have successfully installed osTicket.
 2. http://localhost/osTicket/
 </p>
 
-
-<p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 <br/>
