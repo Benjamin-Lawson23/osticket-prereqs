@@ -48,7 +48,7 @@ IIS is a web server that allows the computer you are using to serve websites. os
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -61,7 +61,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 </p>
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -69,7 +69,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -82,7 +82,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -95,7 +95,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -112,7 +112,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -130,7 +130,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -149,7 +149,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -165,7 +165,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -180,7 +180,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -196,7 +196,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -214,7 +214,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -230,7 +230,7 @@ Congratulations! You have successfully installed osTicket.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -243,7 +243,7 @@ Congratulations! You have successfully installed osTicket.
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
