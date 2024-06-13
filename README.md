@@ -214,7 +214,7 @@ HeidiSQL is a database client that allows us to connect to the server and setup 
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YgL5kL7.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
