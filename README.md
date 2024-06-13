@@ -165,6 +165,12 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
+<img src="https://imgur.com/HeF4kYg.png" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+<p>
 <img src="https://imgur.com/uzV72jB.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
