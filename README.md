@@ -170,10 +170,10 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 <p>
 
 
-<p>
-<img src="https://imgur.com/uzV72jB.png" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+p>
+img src="https://imgur.com/uzV72jB.png" width="50%" alt="Disk Sanitization Steps"/>
+/p>
+p>
 
 <h2>Step 11: Rename: ost-sampleconfig.php</h2>
 <p>
