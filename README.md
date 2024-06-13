@@ -48,7 +48,7 @@ IIS is a web server that allows the computer you are using to serve websites. os
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/86aSWPY.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
