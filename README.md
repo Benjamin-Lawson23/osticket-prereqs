@@ -185,12 +185,6 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 </p>
 
 
-<p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
 <h2>Step 12: Continue Setting up osTicket in the browser</h2>
 <p>
   
@@ -202,7 +196,7 @@ MySQL installs a database on your computer that osTicket uses to store all of th
 
 
 <p>
-<img src="https://i.imgur.com/mnWYcY0.png" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lhrSVf8.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
