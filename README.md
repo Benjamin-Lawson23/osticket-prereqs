@@ -67,6 +67,7 @@ Rewrite Module is a download requirement for osTicket that configures URLs.
 
 <h2>Step 4: Create a PHP folder on your C: drive</h2>
 
+<p>Create a PHP folder on your C: drive</p>
 
 <p>
 <img src="https://imgur.com/P31bN2b.png" width="50%" alt="Disk Sanitization Steps"/>
